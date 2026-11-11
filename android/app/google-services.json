@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "875268392623",
+    "project_id": "gkydnt",
+    "storage_bucket": "gkydnt.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:875268392623:android:ff8aaf4d8b66a12ccd765a",
+        "android_client_info": {
+          "package_name": "com.gkydnt"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7d5gCtQ7w74jI5MLvm4BYiXnym_OFnNU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
